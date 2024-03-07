@@ -1,0 +1,19 @@
+{
+  "name": "test_transfer_wormhole",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wormhole-foundation/connect-sdk": "^0.4.6",
+    "@wormhole-foundation/connect-sdk-evm": "^0.4.6",
+    "@wormhole-foundation/connect-sdk-evm-cctp": "^0.4.6",
+    "@wormhole-foundation/connect-sdk-evm-core": "^0.4.6",
+    "@wormhole-foundation/connect-sdk-evm-tokenbridge": "^0.4.6"
+  }
+}
